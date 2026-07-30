@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sine.play.hosting",
-    "port": 24302,
+    "port": ,
     "version": "1.21.1"
   },
   "position": {
